@@ -1,0 +1,11 @@
+.black{
+    background-color: #b58863;
+}
+
+.white{
+    background-color:#f0d9b5;
+}
+
+.available{
+    border: 3px solid green;
+}

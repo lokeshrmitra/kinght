@@ -1,0 +1,15 @@
+.circle{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+    background-color: chocolate;
+}
+
+.knight img{
+    height: 100%;
+    width: 100%;
+}
